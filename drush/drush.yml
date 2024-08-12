@@ -1,7 +1,0 @@
-# Contains project-wide configuration for Drush.
-# @see https://drush.org/latest/using-drush-configuration
-command:
-  site:
-    install:
-      options:
-        account-pass: admin
