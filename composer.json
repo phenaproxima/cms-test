@@ -17,9 +17,9 @@
     "require": {
         "composer/installers": "^2.3",
         "cweagans/composer-patches": "^2",
-        "drupal/core-composer-scaffold": "^10.3",
-        "drupal/core-project-message": "^10.3",
-        "drupal/core-recommended": "^10.3",
+        "drupal/core-composer-scaffold": "^10.4",
+        "drupal/core-project-message": "^10.4",
+        "drupal/core-recommended": "^10.4",
         "drupal/drupal_cms": "*",
         "drupal/drupal_cms_installer": "*",
         "drush/drush": "^12.5"
