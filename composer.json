@@ -80,7 +80,7 @@
     },
     "scripts": {
         "launch": [
-            "@php ./web/core/scripts/drupal quick-start drupal_cms_installer"
+            "@php ./web/core/scripts/drupal quick-start"
         ]
     }
 }
