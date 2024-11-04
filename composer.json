@@ -20,7 +20,7 @@
         "drupal/core-composer-scaffold": "^10.4",
         "drupal/core-project-message": "^10.4",
         "drupal/core-recommended": "^10.4",
-        "drupal/drupal_cms": "*",
+        "drupal/drupal_cms_starter": "*",
         "drupal/drupal_cms_accessibility_tools": "*",
         "drupal/drupal_cms_blog": "*",
         "drupal/drupal_cms_events": "*",
