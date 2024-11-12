@@ -25,7 +25,6 @@
         "drupal/drupal_cms_blog": "*",
         "drupal/drupal_cms_events": "*",
         "drupal/drupal_cms_forms": "*",
-        "drupal/drupal_cms_installer": "*",
         "drupal/drupal_cms_multilingual": "*",
         "drupal/drupal_cms_seo_tools": "*",
         "drush/drush": "^13"
